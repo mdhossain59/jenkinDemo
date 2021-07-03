@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11647" started-at="2021-07-02T19:53:15 EDT" finished-at="2021-07-02T19:53:27 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11647" started-at="2021-07-02T19:53:15 EDT" finished-at="2021-07-02T19:53:27 EDT">
+      <class name="com.test.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.NewTest@4e7dc304]" name="beforeMethod" is-config="true" duration-ms="3803" started-at="2021-07-02T19:53:15 EDT" description="initilize the browser" finished-at="2021-07-02T19:53:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validTtile()[pri:1, instance:com.test.NewTest@4e7dc304]" name="validTtile" duration-ms="14" started-at="2021-07-02T19:53:19 EDT" finished-at="2021-07-02T19:53:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validTtile -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.NewTest@4e7dc304]" name="afterMethod" is-config="true" duration-ms="135" started-at="2021-07-02T19:53:19 EDT" description="close the browser" finished-at="2021-07-02T19:53:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.NewTest@4e7dc304]" name="beforeMethod" is-config="true" duration-ms="4325" started-at="2021-07-02T19:53:19 EDT" description="initilize the browser" finished-at="2021-07-02T19:53:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="navigatetoWebsite()[pri:2, instance:com.test.NewTest@4e7dc304]" name="navigatetoWebsite" duration-ms="3138" started-at="2021-07-02T19:53:24 EDT" finished-at="2021-07-02T19:53:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetoWebsite -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.NewTest@4e7dc304]" name="afterMethod" is-config="true" duration-ms="190" started-at="2021-07-02T19:53:27 EDT" description="close the browser" finished-at="2021-07-02T19:53:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.test.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
